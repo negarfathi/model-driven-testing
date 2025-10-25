@@ -1,0 +1,17 @@
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\nunit.engine.dll
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\nunit.engine.api.dll
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\ProjectTests.dll
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\ProjectTests.pdb
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\nunit.framework.dll
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\Project.exe
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\Project.pdb
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\Project.exe.config
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\nunit.framework.pdb
+C:\Users\hamed\source\repos\Project\ProjectTests\bin\Debug\nunit.framework.xml
+C:\Users\hamed\source\repos\Project\ProjectTests\obj\Debug\ProjectTests.csprojAssemblyReference.cache
+C:\Users\hamed\source\repos\Project\ProjectTests\obj\Debug\ProjectTests.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\repos\Project\ProjectTests\obj\Debug\ProjectTests.csproj.CopyComplete
+C:\Users\hamed\source\repos\Project\ProjectTests\obj\Debug\ProjectTests.dll
+C:\Users\hamed\source\repos\Project\ProjectTests\obj\Debug\ProjectTests.pdb
